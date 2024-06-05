@@ -1,4 +1,4 @@
-We will build the chat application with Spring Boot and WebSocket where anyone can communicate or chat with others. Just you need to type your name to login and start chatting with others.
+Built the chat application with Spring Boot and WebSocket where anyone can communicate or chat with others. Just you need to type your name to login and start chatting with others.
 
 Generally, the web application has developed in the model of request and response parameter, so whenever any request comes to the server then it returns the data as a response parameter, but if you noticed, the server never sends the data to the client on its own.
 
